@@ -1,10 +1,10 @@
 {
-    "name": "greg-boggs/bibliophpile",
+    "name": "multco/bibliophpile",
      "license": "Apache-2.0",
      "authors": [
        {
         "name": "Greg Boggs",
-        "homepage": "https://www.drupal.org/u/greg-boggs",
+        "homepage": "https://www.multcolib.org",
         "role": "Maintainer"
       }
     ],
